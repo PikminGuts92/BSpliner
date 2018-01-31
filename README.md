@@ -1,4 +1,4 @@
-# B-Spliner
+ # B-Spliner [![Build status](https://ci.appveyor.com/api/projects/status/t6ac1xfkpu0aqul3?svg=true)](https://ci.appveyor.com/project/PikminGuts92/bspliner)
 B-Spliner is a tool that can be used to calculate and display spline curves using an implementation of the B-Spline algorithm. Your inputs for calculation are a set of control points, degree, and steps. At the moment this program does not allow custom input of knot vectors so it instead generates uniformly separated values for each knot.
 
 ![alt text](http://i.imgur.com/RaRTfOM.png "B-Spliner GUI")
